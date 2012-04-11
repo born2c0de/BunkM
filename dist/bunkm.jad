@@ -1,0 +1,8 @@
+MIDlet-1: BunkM,/images/icon.PNG,Bunkulator.BunkMIDlet
+MIDlet-Jar-Size: 34505
+MIDlet-Jar-URL: bunkm.jar
+MIDlet-Name: BunkM
+MIDlet-Vendor: Sanchit Karve
+MIDlet-Version: 1.60
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0
